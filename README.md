@@ -13,6 +13,7 @@
 ## Bibliography
 
 ```
+
 @thesis{okasaki1996purely,
   langid = {english},
   title = {Purely Functional Data Structures},
@@ -62,11 +63,12 @@
   author = {Chuang, Tyng-Ruey and Goldberg, Benjamin}
 }
 
-@online{referencea,
-  title = {Reference Request - {{What}}'s New in Purely Functional Data Structures since {{Okasaki}}? - {{Theoretical Computer Science Stack Exchange}}},
+@online{what2010,
+  title = {What's New in Purely Functional Data Structures since {{Okasaki}}? - {{Theoretical Computer Science Stack Exchange}}},
   url = {https://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki},
   shorttitle = {Reference Request - {{What}}'s New in Purely Functional Data Structures since {{Okasaki}}?},
-  urldate = {2017-10-24}
+  urldate = {2017-10-24},
+  date = {2010}
 }
 
 @report{bagwell2001ideal,
@@ -157,10 +159,13 @@
   author = {Prokopec, Aleksandar}
 }
 
-@article{driscollmaking,
+@article{driscoll1989making,
   langid = {english},
   title = {Making {{Data Structures Persistent}}},
-  pages = {39},
+  number = {38},
+  journaltitle = {Journal of Computer and Systems Science},
+  date = {1989},
+  pages = {86-124},
   author = {Driscoll, James R. and Sarnak, Neil and Sleator, Daniel D.}
 }
 
@@ -200,10 +205,10 @@
   note = {OCLC: ocn711045678}
 }
 
-@article{lorangeimproving,
+@thesis{lorange2014improving,
   langid = {english},
   title = {Improving {{RRB}}-{{Tree Performance}} through {{Transience}}},
-  pages = {130},
+  date = {2014},
   author = {L'orange, Jean Niklas}
 }
 
@@ -269,11 +274,12 @@
   author = {Pangsakulyanont, Thai}
 }
 
-@online{reference,
-  title = {Reference Request - {{What}} Classes of Data Structures Can Be Made Persistent?},
+@online{what2013,
+  title = {What Classes of Data Structures Can Be Made Persistent?},
   url = {https://cs.stackexchange.com/questions/18262/what-classes-of-data-structures-can-be-made-persistent},
   journaltitle = {Computer Science Stack Exchange},
-  urldate = {2018-06-19}
+  urldate = {2018-06-19},
+  date = {2013}
 }
 ```
 
